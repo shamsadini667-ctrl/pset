@@ -15,4 +15,4 @@ try:
         print(energy)
 
 except ValueError:
-    print("enter a valid number.")
+    print("please enter a valid number.")
